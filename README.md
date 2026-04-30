@@ -12,8 +12,8 @@ Tento repozitár obsahuje Jupyter notebooky na analýzu faktorov spojených s ú
 | `asociacne_pravidla_apriori_4_vlna_.ipynb` | Asociačné pravidlá algoritmom Apriori – 4. vlna |
 | `asociacne_pravidla_fpgrowth_.ipynb` | Asociačné pravidlá algoritmom FP-Growth – 1. vlna |
 | `asociacne_pravidla_fpgrowth_4_vlna_.ipynb` | Asociačné pravidlá algoritmom FP-Growth – 4. vlna |
-| `grafy_AS_1_vlna.ipynb` | Exploratívna analýza a vizualizácie – 1. vlna |
-| `grafy_AS_4_vlna.ipynb` | Exploratívna analýza a vizualizácie – 4. vlna |
+| `grafy_AS_1_vlna.ipynb` |  Analýza a vizualizácie – 1. vlna |
+| `grafy_AS_4_vlna.ipynb` |  Analýza a vizualizácie – 4. vlna |
 
 ---
 
